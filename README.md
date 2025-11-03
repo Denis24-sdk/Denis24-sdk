@@ -49,6 +49,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/REST%20API-28A745?style=for-the-badge" alt="REST API"/></a>
 </p>
 
 
@@ -57,6 +58,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/API-2474A4?style=for-the-badge" alt="API"/></a>
 </p>
 
 <br>
@@ -69,7 +71,7 @@
     <td width="50%" align="center">
       <h3>Мессенджер на Flutter</h3>
       <a href="https://github.com/Denis24-sdk/messenger_app" target="_blank">
-        <img src="" alt="Messenger App Screenshot" width="500"/>
+        <img src="https://github.com/Denis24-sdk/Denis24-sdk/blob/main/ImageToStl.com_merged-document%20(1).jpg" alt="Messenger App Screenshot" width="750"/>
         <br/>
         <img src="https://img.shields.io/badge/Посмотреть_проект-24292e?style=for-the-badge&logo=github" alt="Посмотреть проект"/>
       </a>
@@ -79,7 +81,7 @@
   <td width="50%" align="center">
       <h3>Трекер привычек на Flutter</h3>
       <a href="https://github.com/Denis24-sdk/trake-tweek" target="_blank">
-        <img src="" alt="Скриншот Второго Проекта" width="500"/>
+        <img src="https://github.com/Denis24-sdk/Denis24-sdk/blob/main/ImageToStl.com_merged-document.jpg" alt="Скриншот Второго Проекта" width="750"/>
         <br/>
         <img src="https://img.shields.io/badge/Посмотреть_проект-24292e?style=for-the-badge&logo=github" alt="Посмотреть проект"/>
       </a>
@@ -92,7 +94,7 @@
   <td width="50%" align="center">
       <h3>ToDo-List на Kotlin</h3>
       <a href="https://github.com/Denis24-sdk/ToDo-List-in-Kotlin" target="_blank">
-        <img src="" alt="Скриншот Третьего Проекта" width="500"/>
+        <img src="https://github.com/Denis24-sdk/Denis24-sdk/blob/main/111.jpg" alt="Скриншот Третьего Проекта" width="750"/>
         <br/>
         <img src="https://img.shields.io/badge/Посмотреть_проект-24292e?style=for-the-badge&logo=github" alt="Посмотреть проект"/>
       </a>
@@ -101,7 +103,7 @@
   <td width="50%" align="center">
       <h3>Форум на PHP</h3>
       <a href="https://github.com/Denis24-sdk/blog-platform" target="_blank">
-        <img src="" alt="Скриншот Четвертого Проекта" width="500"/>
+        <img src="https://github.com/Denis24-sdk/Denis24-sdk/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-11-03%20125323.png" alt="Скриншот Четвертого Проекта" width="750"/>
         <br/>
         <img src="https://img.shields.io/badge/Посмотреть_проект-24292e?style=for-the-badge&logo=github" alt="Посмотреть проект"/>
       </a>
