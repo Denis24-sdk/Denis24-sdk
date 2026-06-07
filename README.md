@@ -117,7 +117,7 @@
 <!-- === СВЯЖИТЕСЬ СО МНОЙ === -->
 <h2 align="center">Свяжитесь со мной</h2>
 <p align="center">
-  <a href="https://t.me/Den24exe" target="_blank">
+  <a href="https://t.me/lllawlllite" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <!-- Если хотите добавить почту, используйте: -->
